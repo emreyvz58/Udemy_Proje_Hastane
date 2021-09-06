@@ -1,0 +1,1 @@
+Data Source=DESKTOP-U0DCC7V;Initial Catalog=HastaneProje;Integrated Security=True
